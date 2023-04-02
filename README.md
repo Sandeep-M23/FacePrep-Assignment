@@ -2,6 +2,8 @@
 
 An Task of Create an responsive infinite scrolling list in react for a fixed array of items as an Assignment for [Face Prep](https://www.faceprep.in/).
 
+Technologies Used -  Frontend: ReactJS , Components: Chakra UI , Language: TypeScript
+
 ## Specs
 
 - The app must be a authenticated app. It can accept fake login with details, username: foo, password: bar.
